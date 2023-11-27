@@ -1,0 +1,5 @@
+Back-end express server is running at :::5000
+Back-end express localhost server is running at http://localhost:5000
+Connected
+select * from notification
+THis is test message for logger
